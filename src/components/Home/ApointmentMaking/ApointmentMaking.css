@@ -1,0 +1,10 @@
+.make-appointment{
+   background-color: rgba(0, 0, 0, 0.739);
+    height: 420px;
+}
+
+.make-appointment img{
+    height: 550px;
+    transform: translateY(-130px);
+}
+
